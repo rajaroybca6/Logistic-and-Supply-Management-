@@ -13,3 +13,5 @@ matplotlib
 seaborn
 folium
 streamlit-folium
+geopy
+
