@@ -11,3 +11,5 @@ joblib
 scipy
 matplotlib
 seaborn
+folium
+streamlit-folium
